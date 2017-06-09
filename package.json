@@ -1,6 +1,6 @@
 {
   "name": "yaml-flat-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My impeccable module",
   "license": "MIT",
   "repository": "akameco/yaml-flat-loader",
