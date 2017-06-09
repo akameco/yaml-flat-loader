@@ -24,7 +24,7 @@ hello:
 
 webpack.config.js
 
-```json
+```js
 module: {
   rules: [
     {
