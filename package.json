@@ -1,0 +1,35 @@
+{
+  "name": "yaml-flat-loader",
+  "version": "0.0.0",
+  "description": "My impeccable module",
+  "license": "MIT",
+  "repository": "akameco/yaml-flat-loader",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "flat": "^2.0.1",
+    "js-yaml": "^3.8.4"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "eslint": "^3.19.0",
+    "eslint-config-precure": "^0.5.1",
+    "prettier": "^1.4.4"
+  }
+}

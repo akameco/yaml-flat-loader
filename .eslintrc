@@ -1,0 +1,6 @@
+{
+  "extends": "precure",
+  "rules": {
+    "flowtype/require-parameter-type": 0
+  }
+}

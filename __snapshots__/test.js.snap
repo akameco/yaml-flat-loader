@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot nest yaml 1`] = `
+"{
+	\\"welcome.to\\": \\"yaml\\"
+}"
+`;
+
+exports[`snapshot yaml 1`] = `
+"{
+	\\"hello\\": \\"world\\"
+}"
+`;
