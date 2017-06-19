@@ -28,8 +28,8 @@
   },
   "devDependencies": {
     "ava": "^0.19.1",
-    "eslint": "^3.19.0",
-    "eslint-config-precure": "^0.5.1",
+    "eslint": "^4.0.0",
+    "eslint-config-precure": "^0.6.0",
     "prettier": "^1.4.4"
   }
 }
