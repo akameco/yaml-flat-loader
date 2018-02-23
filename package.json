@@ -23,13 +23,13 @@
     ""
   ],
   "dependencies": {
-    "flat": "^2.0.1",
+    "flat": "^4.0.0",
     "js-yaml": "^3.8.4"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^0.25.0",
     "eslint": "^4.0.0",
-    "eslint-config-precure": "^0.6.0",
+    "eslint-config-precure": "^2.4.0",
     "prettier": "^1.4.4"
   }
 }
