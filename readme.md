@@ -1,5 +1,7 @@
 # yaml-flat-loader [![Build Status](https://travis-ci.org/akameco/yaml-flat-loader.svg?branch=master)](https://travis-ci.org/akameco/yaml-flat-loader)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/yaml-flat-loader.svg)](https://greenkeeper.io/)
+
 > YAML Loader (flat!) for webpack
 
 Converts YAML to valid flat JSON.
