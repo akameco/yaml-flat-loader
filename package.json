@@ -10,7 +10,7 @@
     "url": "akameco.github.io"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "scripts": {
     "lint": "eslint .",
@@ -20,7 +20,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "yaml",
+    "flat",
+    "webpack",
+    "loader",
+    "json"
   ],
   "dependencies": {
     "flat": "^4.1.0",
